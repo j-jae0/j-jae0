@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=D6F1F3&height=300&section=header&text=Jaeyoung%20Jung&fontColor=F9FEFE&fontSize=60)
 
-### Hi there 👋
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **j-jae0/j-jae0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
