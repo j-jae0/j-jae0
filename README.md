@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=F4D03F&height=150&section=header&text=Jaeyoung%20Jung&fontColor=black&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=D0ECE7&height=150&section=header&text=Jaeyoung%20Jung&fontColor=black&fontSize=60&animation=twinkling)
 
 <br>
 
@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp 
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fj-jae0&count_bg=%23F9E79F&title_bg=%23706F6F&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
-</p>
+<br>
+
+
