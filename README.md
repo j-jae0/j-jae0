@@ -7,4 +7,4 @@
 ### Jaeyoung 👋👋👋
 
 =
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-jae0&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-jae0&show_icons=true&theme=swift)
