@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=D4EFDF&height=150&section=header&text=Jaeyoung%20Jung&fontColor=black&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FEF9E7&height=150&section=header&text=Jaeyoung%20Jung&fontColor=black&fontSize=60&animation=twinkling)
 
 <br>
 
