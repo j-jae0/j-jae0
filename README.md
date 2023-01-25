@@ -1,6 +1,6 @@
 <h1 align="center">Jaeyoung Jung</h1>
 
-<br>
+<!-- <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -20,4 +20,4 @@
 
 <br>
 
-
+ -->
